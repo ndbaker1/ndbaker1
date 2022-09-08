@@ -65,6 +65,24 @@ work:
       - 'Set up end-to-end testing pipeline through Cypress and Jenkins CI/CD'
       - 'Updated ETL Batch jobs aggregating data for Apache Superset'
 
+projects:
+  - name: 'Quadtree Visualizer'
+    date: 'January 2021'
+    link: 'https://github.com/ndbaker1/quadtree-visualizer'
+    description: 'Physics Simulation / Sandbox with Quadtree implementation and visualizations written in Typescript'
+  - name: 'Koala'
+    date: 'September 2021'
+    link: 'https://github.com/ndbaker1/koala'
+    description: 'Toy Programming Language shipped with its own Virtual Machine target written in Rust'
+  - name: 'Neural Network Implementations'
+    date: 'July 2019'
+    link: 'https://github.com/ndbaker1/NeuralNets'
+    description: 'Basic Array-based Neural Network implementations with random mutation and backpropagation'
+  - name: 'Minimal VR'
+    date: 'August 2022'
+    link: 'https://github.com/ndbaker1/MVR'
+    description: 'Simple VR demo using smartphone IMUs synchronized over WebSockets'
+
 competitions:
   - event: 'HackUTD VII: Lend-A-Hand'
     date: 'February 2021'
