@@ -8,10 +8,10 @@ education:
 
 interests:
   [
-    'Cyber Security',
+    'Machine Learning',
     'Language & Compiler Design',
     'Distributed Systems',
-    'ML (Deep Learning)',
+    'Cyber Security',
     'Game Design',
   ]
 
@@ -21,16 +21,16 @@ skills:
       'Docker',
       'React',
       'Angular',
+      'Svelte',
       'Spring',
       'Hibernate',
       'Jenkins',
       'PostgreSQL',
       'Terraform',
-      'Maven',
       'Google Cloud Platform',
+      'Amazon Web Services',
       'Android',
       'OAuth',
-      'Svelte',
     ]
   languages:
     [
@@ -48,7 +48,7 @@ skills:
 
 work:
   - company: 'AWS SageMaker'
-    position: 'Software Development Engineer Internship'
+    position: 'Software Development Engineer Intern'
     location: 'Seattle, Washington'
     date: 'May - August 2022'
     items:
@@ -66,33 +66,27 @@ work:
       - 'Updated ETL Batch jobs aggregating data for Apache Superset'
 
 projects:
-  - name: 'Quadtree Visualizer'
-    date: 'January 2021'
-    link: 'https://github.com/ndbaker1/quadtree-visualizer'
-    description: 'Physics Simulation / Sandbox with Quadtree implementation and visualizations written in Typescript'
-  - name: 'Koala'
-    date: 'September 2021'
-    link: 'https://github.com/ndbaker1/koala'
-    description: 'Toy Programming Language shipped with its own Virtual Machine target written in Rust'
-  - name: 'Neural Network Implementations'
-    date: 'July 2019'
-    link: 'https://github.com/ndbaker1/NeuralNets'
-    description: 'Basic Array-based Neural Network implementations with random mutation and backpropagation'
   - name: 'Minimal VR'
     date: 'August 2022'
     link: 'https://github.com/ndbaker1/MVR'
     description: 'Simple VR demo using smartphone IMUs synchronized over WebSockets'
+  - name: 'Koala'
+    date: 'September 2021'
+    link: 'https://github.com/ndbaker1/koala'
+    description: 'Toy Programming Language shipped with its own Virtual Machine target written in Rust'
+  - name: 'Quadtree Visualizer'
+    date: 'January 2021'
+    link: 'https://github.com/ndbaker1/quadtree-visualizer'
+    description: 'Physics Simulation / Sandbox with Quadtree implementation and visualizations written in Typescript'
+  - name: 'Neural Network Implementations'
+    date: 'July 2019'
+    link: 'https://github.com/ndbaker1/NeuralNets'
+    description: 'Basic Array-based Neural Network implementations with random mutation and backpropagation'
 
-competitions:
-  - event: 'HackUTD VII: Lend-A-Hand'
+achievements:
+  - title: 'HackUTD VIII 1st place winner for General catagory'
+    date: 'November 2021'
+  - title: 'HackUTD VII 2nd place winner for Texas Outage Recovery Solution (sponsored by StateFarm)'
     date: 'February 2021'
-    location: 'Richardson, TX'
-    items:
-      - 'Web App that provides a forum for sharing/lending tools to those in your community'
-      - '2st place winner for Texas Outage Recovery Solution (sponsored by StateFarm)'
-  - event: 'HackUTD VI: News Unchained'
+  - title: 'HackUTD VI 1st place winner for Best Text Objectivity Analysis (sponsored by Cognizant)'
     date: 'November 2019'
-    location: 'Richardson, TX'
-    items:
-      - 'Chrome extension to scan online articles and identify bias using Google Cloud Natural Language API'
-      - '1st place winner for Best Text Objectivity Analysis (sponsored by Cognizant)'
