@@ -10,7 +10,6 @@ I'm Nick.
   - `React` <img height="20" alt="React-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png">
 - `Docker` 🐳
 - `WebAssembly` <img height="20" alt="WebAssembly Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/32px-WebAssembly_Logo.svg.png">
-  - `Wasmer` <img height="20" alt="Wasmer.io" src="https://avatars.githubusercontent.com/u/44205449?s=200&v=4">
 
 ### I'm Interested In
 - `Neural Networks` 🧠
