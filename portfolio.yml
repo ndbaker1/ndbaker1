@@ -49,7 +49,7 @@ skills:
 work:
   - company: "AWS SageMaker"
     position: "Software Development Engineer Intern"
-    location: "Seattle, Washington"
+    location: "Seattle, WA"
     date: "May - August 2022"
     items:
       - "Created a data lake built on state flow through DynamoDB and showcased queries and transformations on available data"
