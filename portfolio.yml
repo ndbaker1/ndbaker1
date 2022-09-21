@@ -52,7 +52,8 @@ work:
     location: "Seattle, WA"
     date: "May - August 2022"
     items:
-      - "Created a data lake built on state flow through DynamoDB and showcased queries and transformations on available data"
+      - "Built a pipeline for capturing DynamoDB transactions in realtime and storing them onto an S3 data lake"
+      - "Demonstrated sample operational metrics computations from data lake using Pandas library"
   - company: "Tritech Software Development"
     position: "Software Developer"
     date: "June 2020 - March 2022"
