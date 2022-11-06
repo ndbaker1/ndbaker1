@@ -67,10 +67,6 @@ work:
       - "Updated ETL Batch jobs aggregating data for Apache Superset"
 
 projects:
-  - name: "Minimal VR"
-    date: "August 2022"
-    link: "https://github.com/ndbaker1/MVR"
-    description: "Simple VR demo using smartphone IMUs synchronized over WebSockets"
   - name: "Koala"
     date: "September 2021"
     link: "https://github.com/ndbaker1/koala"
