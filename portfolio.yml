@@ -81,6 +81,8 @@ projects:
     description: "Basic Array-based Neural Network implementations with genetic mutation and backpropagation"
 
 achievements:
+  - title: "HackUTD IX"
+    info: "1st place under Nebula Labs API Challenge"
   - title: "HackUTD VIII"
     info: "1st place under General Catagory"
   - title: "HackUTD VII"
