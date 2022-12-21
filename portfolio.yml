@@ -46,7 +46,13 @@ skills:
       "Bash",
     ]
 
-work:
+experience:
+  - company: "Graduate CyberSecurity Laboratory"
+    position: "Project Member"
+    date: "January 2023 - May 2023"
+    location: "University of Texas at Dallas, Richardson, TX"
+    items:
+      - "Tasked with contributing Graph Neural Network Explainer algorithm implementations to DGL (Deep Graph Library)"
   - company: "AWS SageMaker"
     position: "Software Development Engineer Intern"
     location: "Seattle, WA"
@@ -70,17 +76,19 @@ projects:
   - name: "Koala"
     date: "September 2021"
     link: "https://github.com/ndbaker1/koala"
-    description: "Toy Programming Language shipped with its own Virtual Machine target written in Rust"
+    description: "Toy Programming Language and runtime Virtual Machine target written in Rust"
   - name: "Quadtree Visualizer"
     date: "January 2021"
     link: "https://github.com/ndbaker1/quadtree-visualizer"
-    description: "Physics Simulation / Sandbox with Quadtree implementation and visualizations written in Typescript"
+    description: "Pure Typescript Quadtree implementation with visualizations through a minimal, interactive physics sandbox"
   - name: "Neural Network Implementations"
     date: "July 2019"
     link: "https://github.com/ndbaker1/NeuralNets"
-    description: "Basic Array-based Neural Network implementations with genetic mutation and backpropagation"
+    description: "Demonstration of standalone array-based neural network implementations (with genetic algorithms & backpropagation) piloting entities in a physics sandbox"
 
 achievements:
+  - title: "2022 NSA Codebreaker Challenge"
+    info: "High Performer"
   - title: "HackUTD IX"
     info: "1st place under Nebula Labs API Challenge"
   - title: "HackUTD VIII"
