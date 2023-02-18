@@ -12,9 +12,10 @@ I'm Nick.
 - `WebAssembly` <img height="20" alt="WebAssembly Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/32px-WebAssembly_Logo.svg.png">
 
 ### I'm Interested In
-- `Neural Networks` 🧠
 - `Language & Compiler Design` 🔨
 - `CyberSecurity` 🔐
-- `Virtual Machines` 💾
-- `Distributed Systems & Cloud Computing` ☁️
+- `Virtualization` 💾
+- `Cloud Computing` ☁️
+- `Distributed Systems` 📶
 - `CI/CD & DevOps` 📦
+- `Deep Learning` 🧠
