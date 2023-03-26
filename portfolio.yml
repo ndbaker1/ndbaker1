@@ -7,44 +7,38 @@ education:
     date: "August 2019 - May 2022"
 
 interests:
-  [
-    "Machine Learning",
-    "Language & Compiler Design",
-    "Distributed Systems",
-    "Cyber Security",
-    "Game Design",
-  ]
+  - "Machine Learning"
+  - "Language & Compiler Design"
+  - "Distributed Systems"
+  - "Cyber Security"
+  - "Game Design"
 
 skills:
   tools:
-    [
-      "Docker",
-      "React",
-      "Angular",
-      "Svelte",
-      "Spring",
-      "Hibernate",
-      "Jenkins",
-      "PostgreSQL",
-      "Terraform",
-      "Google Cloud Platform",
-      "Amazon Web Services",
-      "Android",
-      "OAuth",
-    ]
+    - "Docker"
+    - "React"
+    - "Angular"
+    - "Svelte"
+    - "Spring"
+    - "Hibernate"
+    - "Jenkins"
+    - "PostgreSQL"
+    - "Terraform"
+    - "Google Cloud Platform"
+    - "Amazon Web Services"
+    - "Android"
+    - "OAuth"
   languages:
-    [
-      "Rust",
-      "Java",
-      "Kotlin",
-      "Typescript & Javascript",
-      "Python",
-      "HTML/CSS",
-      "C/C++",
-      "SQL",
-      "GraphQL",
-      "Bash",
-    ]
+    - "Rust"
+    - "Java"
+    - "Kotlin"
+    - "Typescript & Javascript"
+    - "Python"
+    - "HTML/CSS"
+    - "C/C++"
+    - "SQL"
+    - "GraphQL"
+    - "Bash"
 
 experience:
   - company: "UTD System Security Research Lab"
@@ -52,7 +46,8 @@ experience:
     date: "January 2023 - May 2023"
     location: "University of Texas at Dallas, Richardson, TX"
     items:
-      - "Research and apply explainable & interpretable AI techniques to CyberSecurity-based applications of Graph Neural Networks"
+      - "Study and implement explainable & interpretable AI algorithms"
+      - "Research applications of Graph Neural Networks for Intrusion Detection Systems"
   - company: "AWS SageMaker"
     position: "Software Development Engineer Intern"
     location: "Seattle, WA"
@@ -83,11 +78,11 @@ projects:
   - name: "Quadtree Visualizer"
     date: "January 2021"
     link: "https://github.com/ndbaker1/quadtree-visualizer"
-    description: "Pure Typescript Quadtree implementation with visualizations through a minimal, interactive physics sandbox"
+    description: "Pure Typescript Quadtree implementation presented through a minimal, interactive physics sandbox"
   - name: "Neural Network Implementations"
     date: "July 2019"
     link: "https://github.com/ndbaker1/NeuralNets"
-    description: "Demonstration of standalone array-based neural network implementations (with genetic algorithms & backpropagation) piloting entities in a physics sandbox"
+    description: "Neural Networks from scratch based on genetic algorithms and backpropagation"
 
 achievements:
   - title: "2022 NSA Codebreaker Challenge"
