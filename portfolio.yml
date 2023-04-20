@@ -42,29 +42,28 @@ skills:
 
 experience:
   - company: "UTD System Security Research Lab"
-    position: "Graduate Research Student"
+    position: "Graduate Researcher"
     date: "January 2023 - May 2023"
     location: "University of Texas at Dallas, Richardson, TX"
     items:
-      - "Study and implement explainable & interpretable AI algorithms"
-      - "Research applications of Graph Neural Networks for Intrusion Detection Systems"
+      - "Contributed graph neural network (GNN) explainer implementations to open-source Deep Graph Library (DGL)"
+      - "Ran case studies regarding applications of graph neural networks for Intrusion Detection Systems (IDS)"
   - company: "AWS SageMaker"
     position: "Software Development Engineer Intern"
     location: "Seattle, WA"
-    date: "May - August 2022"
+    date: "May 2022 - August 2022"
     items:
-      - "Built a pipeline for capturing DynamoDB transactions in realtime and storing them onto an S3 data lake"
-      - "Demonstrated sample operational metrics computations from data lake using Pandas library"
+      - "Built the team's first metrics pipeline for capturing platform events in realtime and saving them to a data lake"
+      - "Showcased business intelligence (BI) applications of data lake to measure platform health and growth"
   - company: "Tritech Software Development"
     position: "Software Developer"
     date: "June 2020 - March 2022"
     location: "Allen, TX"
     items:
-      - "Contributed towards replatforming a monolithic Java product to a Cloud Provider and refactoring it into REST microservices using Kotlin, Spring, Hibernate, and PostgreSQL"
-      - "Supervised Auth0 integrations and configured several extensions to the authentication pipelines"
-      - "Provisioned and maintained cloud environments using Terraform and created Jenkins CI/CD jobs to orchestrate builds, dockerization, artifact staging, and deployments"
-      - "Led the process of bringing frontend (Angular) development in-house from a consulting partner and setup end-to-end testing with Cypress"
-      - "Updated ETL Batch jobs aggregating data for Apache Superset"
+      - "Refactored a monolithic Java app into a cloud-oriented, REST microservice architecture using Kotlin, Spring, Hibernate, and PostgreSQL"
+      - "Supervised integrations with Auth0 and reviewed changes to the authentication pipeline"
+      - "Provisioned cloud infrastructure using Terraform and created Jenkins CI/CD jobs to orchestrate builds, dockerization, staging, and deployments"
+      - "Brought frontend (Angular) development in-house from a consulting partner and setup end-to-end testing with Cypress"
 
 projects:
   - name: "tablesalt"
