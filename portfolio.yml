@@ -1,21 +1,23 @@
 education:
   - title: "M.S. in Cyber Security"
     school: "University of Texas at Dallas"
-    date: "August 2022 - Present"
+    date: "August 2022 - May 2023"
   - title: "B.S. in Computer Science"
     school: "University of Texas at Dallas"
     date: "August 2019 - May 2022"
 
 interests:
-  - "Machine Learning"
-  - "Language & Compiler Design"
-  - "Distributed Systems"
   - "Cyber Security"
+  - "Distributed Systems"
+  - "Extended Reality"
   - "Game Design"
+  - "Language & Compiler Design"
+  - "Machine Learning"
 
 skills:
   tools:
     - "Docker"
+    - "WebAssembly"
     - "React"
     - "Angular"
     - "Svelte"
@@ -24,9 +26,10 @@ skills:
     - "Jenkins"
     - "PostgreSQL"
     - "Terraform"
-    - "Google Cloud Platform"
-    - "Amazon Web Services"
-    - "Android"
+    - "Pytorch"
+    - "Google Cloud Platform (GCP)"
+    - "Amazon Web Services (AWS)"
+    - "Android (AOSP)"
     - "OAuth"
   languages:
     - "Rust"
@@ -38,15 +41,18 @@ skills:
     - "C/C++"
     - "SQL"
     - "GraphQL"
-    - "Bash"
 
 experience:
+  # - company: "AWS SageMaker"
+  #   position: "Software Development Engineer"
+  #   location: "Seattle, WA"
+  #   date: "June 2023 - Present"
   - company: "UTD System Security Research Lab"
     position: "Graduate Researcher"
     date: "January 2023 - May 2023"
     location: "University of Texas at Dallas, Richardson, TX"
     items:
-      - "Contributed graph neural network (GNN) explainer implementations to open-source Deep Graph Library (DGL)"
+      - "Implemented graph neural network (GNN) explainers for open-source Deep Graph Library (DGL)"
       - "Ran case studies regarding applications of graph neural networks for Intrusion Detection Systems (IDS)"
   - company: "AWS SageMaker"
     position: "Software Development Engineer Intern"
