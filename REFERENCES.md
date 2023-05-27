@@ -2,6 +2,10 @@
 
 A collection of important concepts with as many intuitive learning resources as possible.
 
+## Compiler Design
+
+- [the Dragon Book: "Compilers: Principles, Techniques, and Tools"](https://github.com/muthukumarse/books/blob/master/Dragon%20Book%20Compilers%20Principle%20Techniques%20and%20Tools%202nd%20Edtion.pdf)
+
 ## Machine Learning
 
 - [Distill: Intuitive ML Explanations](https://distill.pub/)
