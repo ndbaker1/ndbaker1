@@ -28,3 +28,4 @@ A collection of important concepts with as many intuitive learning resources as 
 # To-Read 🌱
 
 - [Engineering Route Planning Algorithms](https://i11www.iti.kit.edu/extra/publications/dssw-erpa-09.pdf)
+- [Interaction Combinators](https://www.semanticscholar.org/paper/Interaction-Combinators-Lafont/6cfe09aa6e5da6ce98077b7a048cb1badd78cc76)
