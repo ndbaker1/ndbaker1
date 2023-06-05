@@ -19,6 +19,7 @@ A collection of important concepts with as many intuitive learning resources as 
 
 - [CMSC426 Computer Vision: Structure From Motion](https://cmsc426.github.io/sfm/)
 - [Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age](https://arxiv.org/pdf/1606.05830.pdf)
+- [SVO: Fast Semi-Direct Monocular Visual Odometry](https://rpg.ifi.uzh.ch/docs/ICRA14_Forster.pdf)
 
 ### Graph Neural Networks
 
