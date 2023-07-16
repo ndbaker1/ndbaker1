@@ -43,10 +43,10 @@ skills:
     - "GraphQL"
 
 experience:
-  # - company: "AWS SageMaker"
-  #   position: "Software Development Engineer"
-  #   location: "Seattle, WA"
-  #   date: "June 2023 - Present"
+  - company: "Amazon Elastic Kubernetes Service (Amazon EKS)"
+    position: "Software Development Engineer"
+    date: "June 2023 - Present"
+    location: "Seattle, WA"
   - company: "UTD System Security Research Lab"
     position: "Graduate Researcher"
     date: "January 2023 - May 2023"
