@@ -26,6 +26,10 @@ A collection of important concepts with as many intuitive learning resources as 
 - [DGL-KE: Introduction to Knowledge Graph Embedding](https://aws-dglke.readthedocs.io/en/latest/kg.html)
 - [GNNPapers](https://github.com/thunlp/GNNPapers)
 
+## Web
+
+* [Browsertech Digest: WebAssembly, WebRTC, WebGL, WebGPU, WebSockets, WebCodecs, WebTransport, Web-everything.](https://digest.browsertech.com/archive/)
+
 # To-Read 🌱
 
 - [Engineering Route Planning Algorithms](https://i11www.iti.kit.edu/extra/publications/dssw-erpa-09.pdf)
