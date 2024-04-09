@@ -9,11 +9,13 @@ A collection of important concepts with as many intuitive learning resources as 
 ## Machine Learning
 
 - [Distill: Intuitive ML Explanations](https://distill.pub/)
+- [Kola Ayonrinde's Technical Blog](http://www.kolaayonrinde.com/blog/)
 
 ### Transformers
 
 - [Attention Is All You Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 - [CS25 I Stanford Seminar - Transformers United 2023: Introduction to Transformers w/ Andrej Karpathy](https://youtu.be/XfpMkf4rD6E)
+- [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
 
 ### Computer Vision
 
