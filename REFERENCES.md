@@ -11,6 +11,11 @@ A collection of important concepts with as many intuitive learning resources as 
 - [Distill: Intuitive ML Explanations](https://distill.pub/)
 - [Kola Ayonrinde's Technical Blog](http://www.kolaayonrinde.com/blog/)
 
+### State Space Models
+
+- [A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)
+
+
 ### Transformers
 
 - [Attention Is All You Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
