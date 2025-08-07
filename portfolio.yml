@@ -19,6 +19,7 @@ interests:
 
 skills:
   tools:
+    - "Kubernetes"
     - "Docker"
     - "WebAssembly"
     - "React"
@@ -35,10 +36,11 @@ skills:
     - "Android (AOSP)"
     - "OAuth"
   languages:
+    - "Go"
     - "Rust"
     - "Java"
     - "Kotlin"
-    - "Typescript & Javascript"
+    - "Javascript + Typescript"
     - "Python"
     - "HTML/CSS"
     - "C/C++"
@@ -50,6 +52,14 @@ experience:
     position: "Software Development Engineer"
     date: "June 2023 - Present"
     location: "Seattle, WA"
+    items:
+      - "Maintainer for EKS-Optimized Worker Node AMIs and open-source AMI build specifications"
+      - "Maintainer for EKS test suites, including accelerated workloads (eg. NVIDIA GPU benchmarks), Kubernetes features (eg. DRA), AWS-specific hardware (eg. EFA), and more"
+      - "Co-launched EKS-Optimized Amazon Linux 2023 AMIs & Author of nodeadm, a rewrite of the node bootstrapping script for EKS focused on config-driven APIs"
+      - "Co-launched EKS Node Auto Repair Feature & Author of the EKS Node Monitoring Agent"
+      - "Launched EKS support for NVIDIA GB200 NVL72 (NVLink Network Servers), including support for NVIDIA IMEX integration over Kubernetes Dynamic Resource Allocation"
+      # - "Contributed bug fixes to upstream Kubernetes"
+      # - "Added support for AMD GPU AMIs on EKS"
   - company: "UTD System Security Research Lab"
     position: "Graduate Researcher"
     date: "January 2023 - May 2023"
