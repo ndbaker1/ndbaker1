@@ -57,6 +57,7 @@ experience:
       - "Maintainer for EKS test suites, including accelerated workloads (eg. NVIDIA GPU benchmarks), Kubernetes features (eg. DRA), AWS-specific hardware (eg. EFA), and more"
       - "Co-launched EKS-Optimized Amazon Linux 2023 AMIs & Author of nodeadm, a rewrite of the node bootstrapping script for EKS focused on config-driven APIs"
       - "Co-launched EKS Node Auto Repair Feature & Author of the EKS Node Monitoring Agent"
+      - "Developed the AMIs for EKS Auto Mode and worked on strategic features to increase adoption"
       - "Launched EKS support for NVIDIA GB200 NVL72 (NVLink Network Servers), including support for NVIDIA IMEX integration over Kubernetes Dynamic Resource Allocation"
       # - "Contributed bug fixes to upstream Kubernetes"
       # - "Added support for AMD GPU AMIs on EKS"
@@ -102,15 +103,12 @@ projects:
     link: "https://github.com/ndbaker1/NeuralNets"
     description: "Neural Networks from scratch based on genetic algorithms and backpropagation"
 
-achievements:
-  - title: "2022 NSA Codebreaker Challenge"
-    info: "High Performer"
-  - title: "HackUTD IX"
-    info: "1st place under Nebula Labs API Challenge"
-  - title: "HackUTD VIII"
-    info: "1st place under General Catagory"
-  - title: "HackUTD VII"
-    info: "2nd place under Texas Outage Recovery Solution"
-  - title: "HackUTD VI"
-    info: "1st place under Best Text Objectivity Analysis"
+accomplishments:
+  - name: "Blog Post: NVIDIA GB200 on Amazon EKS"
+    link: "https://aws.amazon.com/blogs/containers/unlocking-next-generation-ai-performance-with-dynamic-resource-allocation-on-amazon-eks-and-amazon-ec2-p6e-gb200/"
+  - name: "2022 NSA Codebreaker Challenge: High Performer"
+  - name: "HackUTD IX: 1st place under Nebula Labs API Challenge"
+  - name: "HackUTD VIII: 1st place under General Catagory"
+  - name: "HackUTD VII: 2nd place under Texas Outage Recovery Solution"
+  - name: "HackUTD VI: 1st place under Best Text Objectivity Analysis"
 
