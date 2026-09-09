@@ -47,3 +47,4 @@ A collection of intuitive learning resources for computer science concepts.
 
 * [Engineering Route Planning Algorithms](https://i11www.iti.kit.edu/extra/publications/dssw-erpa-09.pdf)
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+* [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
