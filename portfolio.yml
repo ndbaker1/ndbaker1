@@ -46,9 +46,14 @@ skills:
     - "SQL"
 
 experience:
+  - company: "Coreweave Kubernetes Service (CKS)"
+    position: "Senior Software Engineer"
+    date: "November 2025 - Present"
+    location: "Seattle, WA"
+    items: []
   - company: "Amazon Elastic Kubernetes Service (Amazon EKS)"
     position: "Software Development Engineer"
-    date: "June 2023 - Present"
+    date: "June 2023 - October 2025"
     location: "Seattle, WA"
     items:
       - "Maintainer for EKS-Optimized Worker Node AMIs and open-source AMI build specifications"
